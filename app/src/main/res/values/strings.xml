@@ -1,0 +1,18 @@
+<resources>
+  <string name="app_name">Hotel Booking</string>
+
+  <!--Messages-->
+  <string name="msg_1">Please wait…</string>
+
+  <!--Button-->
+  <string name="btn_1">SIGN IN</string>
+  <string name="btn_2">SIGN UP</string>
+  <string name="btn_3">Yes</string>
+  <string name="btn_4">No</string>
+  <string name="btn_5">Yes</string>
+  <string name="btn_6">No</string>
+  <string name="btn_7">Try Again</string>
+  <string name="btn_8">Cancel</string>
+  <string name="btn_9">Ok</string>
+  <string name="google_maps_key">AIzaSyAqgrggN8qDDvhVYY8PcesjCwFoR5v5AMY</string>
+</resources>
